@@ -1,0 +1,21 @@
+1.<?php
+$time=time();
+$date=date($time,Y-m-d H:s:i);
+echo $date;
+
+
+?>
+2.echo 是输出简单的数字 字符串
+print 输出数字字符串数组
+print_r输出数字字符串 数组
+3.Dream Were
+5.phpstudy
+6.
+7.
+8.php是一种编译型语言，用于源码开发的
+9.time date
+10.mb_substr(参数一，参数二，'utf-8');
+11.phpstudy
+12.meiyou 
+13.meiyou 
+
